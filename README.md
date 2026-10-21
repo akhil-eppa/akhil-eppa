@@ -1,5 +1,4 @@
-## Hi there 👋
-## This is Akhil!
+## Hi there 👋 This is Akhil!
 
 I am an ML Engineer at **Adobe** working on LLM evaluation and agentic AI. M.S. in Computational Data Science, **Carnegie Mellon University**.
 
