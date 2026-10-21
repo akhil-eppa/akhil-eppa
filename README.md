@@ -1,4 +1,9 @@
 ## Hi there 👋
+## This is Akhil!
+
+I am an ML Engineer at **Adobe** working on LLM evaluation and agentic AI. M.S. in Computational Data Science, **Carnegie Mellon University**.
+
+🌐 Website: https://akhil-eppa.github.io/
 
 <!--
 **akhil-eppa/akhil-eppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
